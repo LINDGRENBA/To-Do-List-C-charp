@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 
 namespace ToDoList.Models
@@ -20,10 +19,6 @@ namespace ToDoList.Models
     public static void ClearAll()
     {
       _instances.Clear();
-    }
-    // properties, methods, etc. will go here.
-        public static void Main(){
-
     }
   }
 }

@@ -21,9 +21,5 @@ namespace ToDoList.Models
     {
       _instances.Clear();
     }
-    // properties, methods, etc. will go here.
-        public static void Main(){
-
-    }
   }
 }
